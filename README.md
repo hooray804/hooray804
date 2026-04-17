@@ -50,3 +50,5 @@ I am a high school student and continue to serve as the administrator for my mid
 ### 🔭 Current Focus
 - **AI-Powered Adblocker:** Exploring AI based intelligent content filtering.
 - **Swift Frameworks:** Deepening knowledge in modern iOS development.
+
+![My Stats](./profile/stats.svg)
