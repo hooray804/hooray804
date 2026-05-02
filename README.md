@@ -38,12 +38,12 @@ I am a high school student and continue to serve as the administrator for my mid
 * Features intelligent CSS selector generation, permanent element zapping.
 * Optimized for mobile environments.
 
-#### [Octopus](https://github.com/hooray804/octopus)
-* Developing specialized scripts to bypass anti-adblockers and enhance web accessibility.
-
 #### [AdGuard Gallery Filter](https://github.com/hooray804/adguard-gallery-filter)
 * **Adblock filter list:** Focused on removing ads with a specialization in the Korean language (Maintained via Fork).
-* **Dcinside Expert:** Infinite scroll, image blurring, and many other features for mobile web.
+* **Dcinside Expert Userscript:** Infinite scroll, image blurring, and many other features for mobile web.
+
+#### [Octopus](https://github.com/hooray804/octopus)
+* Developing specialized scripts to bypass anti-adblockers and enhance web accessibility.
 
 ---
 
