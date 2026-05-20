@@ -34,7 +34,7 @@ I am a high school student and continue to serve as the administrator for my mid
 ### 🛠 Main Projects
 
 #### [Picky](https://github.com/hooray804/Picky)
-* **Web Element Inspector & Ad-block Rule Generator.**
+* A userscript featuring **a web element inspector and an ad-block rule generator.**
 * Features intelligent CSS selector generation, permanent element zapping.
 * Optimized for mobile environments.
 
