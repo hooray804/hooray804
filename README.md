@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=hooray804&color=blue&style=flat)
 
 ### 👨‍💻 About Me
-**I'm currently focusing on my studies, so I might be offline during weekdays. I'll check all notifications and issues over the weekend!**
+> **I'm currently focusing on my studies, so I might be offline during weekdays. I'll check all notifications and issues over the weekend!**
+
 I am a high school student and continue to serve as the administrator for my middle school's website server.
 
 ### 🚀 Technical Skills
