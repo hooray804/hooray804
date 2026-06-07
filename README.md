@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 I am a high school student and continue to serve as the administrator for my middle school's website server.
 
+**Focusing on school; might be offline during weekdays**
+
+
 ### 🚀 Technical Skills
 
 | Category | Tech Stack |
