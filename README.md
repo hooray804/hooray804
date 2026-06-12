@@ -19,12 +19,12 @@ I am a high school student and continue to serve as the administrator for my mid
 ### 🛠 Main Projects
 
 #### [Picky](https://github.com/hooray804/Picky)
-* A userscript featuring **a web element inspector and an ad block rule generator.**
+* A userscript featuring a web element inspector and an ad block rule generator.
 * Features intelligent CSS selector generation, permanent element zapping.
 * Optimized for mobile environments.
 
 #### [AdGuard Gallery Filter](https://github.com/hooray804/adguard-gallery-filter)
-* **Adblock filter list:** Focused on removing ads with a specialization in the Korean language (Maintained via Fork).
+* Adblock filter list: Focused on removing ads with a specialization in the Korean language (Maintained via Fork).
 
 #### [Octopus](https://github.com/hooray804/octopus)
 * Developing specialized scripts to bypass anti adblockers and enhance web accessibility.
